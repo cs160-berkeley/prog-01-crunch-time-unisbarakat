@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.0"
 
     defaultConfig {
-        applicationId "com.unisbarakat.myfitness"
+        applicationId "com.unisbarakat.gidlayouttest"
         minSdkVersion 21
         targetSdkVersion 23
         versionCode 1

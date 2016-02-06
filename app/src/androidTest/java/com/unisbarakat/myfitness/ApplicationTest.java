@@ -1,4 +1,4 @@
-package com.unisbarakat.myfitness;
+package com.unisbarakat.myFitness;
 
 import android.app.Application;
 import android.test.ApplicationTestCase;
