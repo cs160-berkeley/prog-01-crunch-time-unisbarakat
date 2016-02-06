@@ -12,4 +12,8 @@ See [myFitness Walkthrough video] (https://www.youtube.com/watch?v=5WZSSw0Clho)
 
 ## Screenshots
 
-<img src="screenshots/main.png" height="400" alt="Screenshot"/>
+<img src="screenshots/Screenshot952016-02-05-22-51-44.jpg" height="400" alt="Screenshot"/>
+<img src="screenshots/Screenshot952016-02-05-22-51-57.jpg	" height="400" alt="Screenshot"/>
+<img src="screenshots/Screenshot952016-02-05-22-52-09.jpg" height="400" alt="Screenshot"/>
+<img src="screenshots/Screenshot952016-02-05-22-52-28.jpg" height="400" alt="Screenshot"/>
+<img src="screenshots/Screenshot952016-02-05-22-52-33.jpg" height="400" alt="Screenshot"/>
